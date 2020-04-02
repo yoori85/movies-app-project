@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <string name="movie_poster">Movie poster</string>
+
+    <!--menu-->
+    <string name="sort_top_rated">Top rated</string>
+    <string name="sort_popular">Popular</string>
+
+    <!--Details page-->
+    <string name="rating">Rating: %s</string>
+    <string name="original_title">Original title: %s</string>
+    <string name="date_released">Date released: %s</string>
+    <string name="overview">Overview:</string>
+
+
+    <!--Toasts-->
+    <string name="connection_error">No network connection</string>
+    <string name="loading">Loading</string>
+
+</resources>
